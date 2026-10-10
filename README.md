@@ -139,7 +139,7 @@ Follow HackNotify India for:
 ### Clone repository
 
 ```bash
-git clone https://github.com/rishee01/hacknotify-serverless-alert-system.git
+https://github.com/rishee-dev/hacknotify-serverless-alert-system.git
 ```
 
 ### Move into project
@@ -208,9 +208,9 @@ Planned upgrades for HackNotify:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishee01&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=rishee-dev&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishee01&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishee-dev&theme=tokyonight">
 
 </p>
 
